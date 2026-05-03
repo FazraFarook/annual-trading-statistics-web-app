@@ -7,9 +7,9 @@ It explores trading behavior, price volatility, and market relationships using s
 _Interactive filtering by share class and year range
 _Visualization of turnover trends and volatility
 -Year-over-year growth analysis
--Statistical relationship analysis using regression models
--Turnover persistence analysis using lag models
--Market phase segmentation (Growth, Decline, Expansion)
+- Statistical relationship analysis using regression models
+- Turnover persistence analysis using lag models
+- Market phase segmentation (Growth, Decline, Expansion)
 
 ## Tools & Technologies
 -Python
