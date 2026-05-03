@@ -43,8 +43,8 @@ The dataset used in this project contains annual trading statistics of Commercia
 - Limited historical scope of analysis
 
 ## Author
-- Fazra Farook
-- BSc (Hons) in Applied Statistics – University of Colombo
+Fazra Farook  
+BSc (Hons) in Applied Statistics – University of Colombo
 
 ## Demo
 [Watch the application demo](https://drive.google.com/file/d/1EUPEjwqJXFIuZbMDo344cB7NM3kvhat8/view?usp=sharing)
