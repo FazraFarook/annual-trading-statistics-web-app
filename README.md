@@ -8,8 +8,10 @@ The dataset used in this project contains annual trading statistics of Commercia
 #### The dataset was manually constructed by extracting and compiling information from publicly available sources. Due to this manual data collection process, the dataset may contain minor inconsistencies and may not fully represent official or perfectly verified market data.
 
 ## Screenshots
-![Dashboard](screenshots/1.jpg)
-![Analysis](screenshots/2.jpg)
+- [Introduction](screenshots/1.jpg)
+  - [Dashboard Guide](screenshots/2.jpg)
+- [Data & Visualization](screenshots/3.jpg)
+- [Market Analysis](screenshots/5.jpg)
 
 ## Features
 - Interactive filtering by share class and year range
