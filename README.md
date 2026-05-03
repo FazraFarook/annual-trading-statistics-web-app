@@ -7,12 +7,6 @@ It explores trading behavior, price volatility, and market relationships using s
 The dataset used in this project contains annual trading statistics of Commercial Bank of Ceylon PLC, including variables such as turnover, trade volume, share volume, and price range indicators.
 #### The dataset was manually constructed by extracting and compiling information from publicly available sources. Due to this manual data collection process, the dataset may contain minor inconsistencies and may not fully represent official or perfectly verified market data.
 
-## Screenshots
-- [Introduction](screenshots/1.jpg)
-  - [Dashboard Guide](screenshots/2.jpg)
-- [Data & Visualization](screenshots/3.jpg)
-- [Market Analysis](screenshots/5.jpg)
-
 ## Features
 - Interactive filtering by share class and year range
 - Visualization of turnover trends and volatility
@@ -20,6 +14,12 @@ The dataset used in this project contains annual trading statistics of Commercia
 - Statistical relationship analysis using regression models
 - Turnover persistence analysis using lag models
 - Market phase segmentation (Growth, Decline, Expansion)
+
+## Screenshots
+- [Introduction](screenshots/1.jpg)
+  - [Dashboard Guide](screenshots/2.jpg)
+- [Data & Visualization](screenshots/3.jpg)
+- [Market Analysis](screenshots/5.jpg)
 
 ## Tools & Technologies
 - Python
@@ -45,3 +45,6 @@ The dataset used in this project contains annual trading statistics of Commercia
 ## Author
 - Fazra Farook
 - BSc (Hons) in Applied Statistics – University of Colombo
+
+## Demo
+- [Watch the application demo](https://drive.google.com/file/d/1EUPEjwqJXFIuZbMDo344cB7NM3kvhat8/view?usp=sharing)
