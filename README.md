@@ -4,8 +4,8 @@ This project is an interactive web application developed using Streamlit to anal
 It explores trading behavior, price volatility, and market relationships using statistical analysis and visual dashboards.
 
 ## Features
--Interactive filtering by share class and year range
--Visualization of turnover trends and volatility
+_Interactive filtering by share class and year range
+_Visualization of turnover trends and volatility
 -Year-over-year growth analysis
 -Statistical relationship analysis using regression models
 -Turnover persistence analysis using lag models
